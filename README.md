@@ -53,7 +53,7 @@ You can download the latest APK here:
 
 ## 🛠️ Built With
 
-This app uses the **MoveNet SinglePose** model from [TensorFlow Hub](https://www.tensorflow.org/hub) with **TensorFlow Lite** for fast and accurate real-time pose detection. The model is open-source and licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+This app uses the **MoveNet SinglePose** model from [TensorFlow Hub](https://www.tensorflow.org/hub) with **TensorFlow Lite** for fast and accurate real-time pose detection.
 
 * Kotlin
 * Jetpack Compose

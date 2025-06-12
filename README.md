@@ -22,13 +22,6 @@ StickCam is an Android application that visualizes human poses in real-time usin
 
 * 🎮 Haptic feedback for button actions
 
----
-
-## 🚀 Screenshots
-
-Here are the screenshots showcasing the key features of the app:
-
-<div align="center"> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/1.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/2.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/3.jpg" width="250"/> <br/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/4.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/5.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/6.jpg" width="250"/> <br/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/7.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/8.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/9.jpg" width="250"/> <br/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/10.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/11.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/12.jpg" width="250"/> <br/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/13.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/14.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/15.jpg" width="250"/> <br/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/16.jpg" width="250"/> </div>
 
 ---
 
@@ -97,3 +90,11 @@ Studying CSE, passionate about app development, quantum computing, and AI/ML.
 
 * [MoveNet SinglePose](https://www.tensorflow.org/lite/models/pose_estimation/overview) by Google, distributed via TensorFlow Hub under Apache 2.0 License
 * Jetpack Compose team for a great UI toolkit
+
+  ---
+
+## 🚀 Screenshots
+
+Here are the screenshots showcasing the key features of the app:
+
+<div align="center"> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/1.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/2.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/3.jpg" width="250"/> <br/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/4.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/5.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/6.jpg" width="250"/> <br/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/7.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/8.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/9.jpg" width="250"/> <br/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/10.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/11.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/12.jpg" width="250"/> <br/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/13.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/14.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/15.jpg" width="250"/> <br/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/16.jpg" width="250"/> </div>

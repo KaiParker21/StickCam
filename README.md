@@ -2,11 +2,6 @@
   <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/StickCam.png" alt="StickCam Logo" width="200"/>
 </p>
 
-<h1 align="center">StickCam</h1>
-
-<p align="center">Pose-driven camera app with stick-figure overlay and fun effects.</p>
-
-
 # 🎥 StickCam - Pose Detection & Visualizer Android App
 
 StickCam is an Android application that visualizes human poses in real-time using stick figures, outlines, and raw camera feed. Built with Jetpack Compose, CameraX, and pose estimation models — it provides an intuitive interface for switching between modes and visualizing detected poses.

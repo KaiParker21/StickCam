@@ -47,7 +47,7 @@ StickCam is an Android application that visualizes human poses in real-time usin
 
 You can download the latest APK here:
 
-👉 [Download StickCam APK](https://github.com/yourusername/StickCam/releases/latest)
+👉 [Download StickCam APK](https://github.com/KaiParker21/StickCam/releases/latest)
 
 ---
 

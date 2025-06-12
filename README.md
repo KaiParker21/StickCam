@@ -28,21 +28,7 @@ StickCam is an Android application that visualizes human poses in real-time usin
 
 Here are the screenshots showcasing the key features of the app:
 
-<img src="https://private-user-images.githubusercontent.com/208963938/454364248-418a118a-77e4-4691-94c5-9f8fe2256268.jpg" width="300" />
-<img src="https://private-user-images.githubusercontent.com/208963938/454364247-d06884b8-000f-4012-b8c5-9a4048312781.jpg" width="300" />
-<img src="https://private-user-images.githubusercontent.com/208963938/454364250-096f2792-d278-46fc-9218-8072572f60ec.jpg" width="300" />
-<img src="https://private-user-images.githubusercontent.com/208963938/454364244-ea647161-5c16-4f89-b5dd-06ec5c40e7c6.jpg" width="300" />
-<img src="https://private-user-images.githubusercontent.com/208963938/454364251-512f2b3c-3039-471f-8de6-da5742c59a13.jpg" width="300" />
-<img src="https://private-user-images.githubusercontent.com/208963938/454364245-7eaa665d-4766-4048-9601-926b77d29739.jpg" width="300" />
-<img src="https://private-user-images.githubusercontent.com/208963938/454364237-ebcd5d19-15cd-4115-bca7-02c7d0a258ae.jpg" width="300" />
-<img src="https://private-user-images.githubusercontent.com/208963938/454364238-7c57c093-9482-41d4-8277-08267c555915.jpg" width="300" />
-<img src="https://private-user-images.githubusercontent.com/208963938/454364249-30d65b27-4582-4899-b81d-7a79811c36dc.jpg" width="300" />
-<img src="https://private-user-images.githubusercontent.com/208963938/454364246-1f3ddc2f-df64-4cd4-840e-9bce6b70bb5a.jpg" width="300" />
-<img src="https://private-user-images.githubusercontent.com/208963938/454364252-8ac31712-8434-4d79-8a5c-cce9fe48db4a.jpg" width="300" />
-<img src="https://private-user-images.githubusercontent.com/208963938/454364253-03d2d126-b505-4de2-91c3-3e83d39e0104.jpg" width="300" />
-<img src="https://private-user-images.githubusercontent.com/208963938/454364240-3d0c0219-e97d-4602-a351-45b0f6a8e51a.jpg" width="300" />
-<img src="https://private-user-images.githubusercontent.com/208963938/454364239-46d7c3bb-4c1e-4a1c-b4ee-395142ace127.jpg" width="300" />
-<img src="https://private-user-images.githubusercontent.com/208963938/454364241-591a6874-f5c2-4296-9960-c81f27a9cc98.jpg" width="300" />
+<div align="center"> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/1.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/2.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/3.jpg" width="250"/> <br/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/4.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/5.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/6.jpg" width="250"/> <br/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/7.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/8.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/9.jpg" width="250"/> <br/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/10.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/11.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/12.jpg" width="250"/> <br/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/13.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/14.jpg" width="250"/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/15.jpg" width="250"/> <br/> <img src="https://raw.githubusercontent.com/KaiParker21/StickCam/refs/heads/main/assets/screenshots/16.jpg" width="250"/> </div>
 
 ---
 
